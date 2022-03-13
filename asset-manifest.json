@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Varta-chat-app/static/css/main.ab6460a8.chunk.css",
+    "main.js": "/Varta-chat-app/static/js/main.ee277df4.chunk.js",
+    "main.js.map": "/Varta-chat-app/static/js/main.ee277df4.chunk.js.map",
+    "runtime-main.js": "/Varta-chat-app/static/js/runtime-main.d1cddcda.js",
+    "runtime-main.js.map": "/Varta-chat-app/static/js/runtime-main.d1cddcda.js.map",
+    "static/js/2.4102060e.chunk.js": "/Varta-chat-app/static/js/2.4102060e.chunk.js",
+    "static/js/2.4102060e.chunk.js.map": "/Varta-chat-app/static/js/2.4102060e.chunk.js.map",
+    "index.html": "/Varta-chat-app/index.html",
+    "static/css/main.ab6460a8.chunk.css.map": "/Varta-chat-app/static/css/main.ab6460a8.chunk.css.map",
+    "static/js/2.4102060e.chunk.js.LICENSE.txt": "/Varta-chat-app/static/js/2.4102060e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1cddcda.js",
+    "static/js/2.4102060e.chunk.js",
+    "static/css/main.ab6460a8.chunk.css",
+    "static/js/main.ee277df4.chunk.js"
+  ]
+}
